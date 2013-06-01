@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 
 /**
  * Chart Panel 图形面板
- * @author 
+ * @author 仇之东
  * 05 - 26 - 2013
  */
 public class ChartPanel extends JPanel {
