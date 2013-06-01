@@ -9,8 +9,8 @@ import java.awt.event.MouseMotionListener;
 import javax.swing.JPanel;
 
 /**
- * Chart Panel 图形面板
- * @author 仇之东
+ * Chart Panel 鍥惧舰闈㈡澘
+ * @author 
  * 05 - 26 - 2013
  */
 public class ChartPanel extends JPanel {
